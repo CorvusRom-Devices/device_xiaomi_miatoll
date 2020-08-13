@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from sm6250-common
-include device/xiaomi/sm6250-common/BoardConfigCommon.mk
+# Inherit from sm7125-common
+include device/xiaomi/sm7125-common/BoardConfigCommon.mk
 
 # Inherit proprietary blobs
 -include vendor/xiaomi/miatoll/BoardConfigVendor.mk

@@ -9,7 +9,7 @@ set -e
 
 # Required!
 export DEVICE=miatoll
-export DEVICE_COMMON=sm6250-common
+export DEVICE_COMMON=sm7125-common
 export VENDOR=xiaomi
 
 export DEVICE_BRINGUP_YEAR=2020
