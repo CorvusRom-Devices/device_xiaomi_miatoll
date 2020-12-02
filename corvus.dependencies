@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "CorvusRom-Devices/device_xiaomi_miatoll.git",
+    "target_path": "device/xiaomi/miatoll",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/device_xiaomi_sm7125-common",
+    "target_path": "device/xiaomi/sm7125-common",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/android_kernel_xiaomi_sm7125",
+    "target_path": "kernel/xiaomi/sm7125",
+    "branch": "etherious",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/vendor_xiaomi_sm7125",
+    "target_path": "vendor/xiaomi",
+    "branch": "11",
+    "remote": "github"
+  }
+]
