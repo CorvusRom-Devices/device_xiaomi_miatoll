@@ -69,29 +69,29 @@ void load_device_properties() {
     if (hwname == "curtana") {
         if (region == "Global_TWO") {
             set_device_props(
-                    "google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys",
-                    "curtana_global-user 10 QKQ1.191215.002 V11.0.10.0.QJWMIXM release-keys",
+                    "google/redfin/redfin:11/RQ1C.210205.006/7047959:user/release-keys",
+                    "curtana_global-user 10 QKQ1.191215.002 V12.0.1.0.QJWMIXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         } else if (region == "India") {
             set_device_props(
-                    "google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys",
-                    "curtana_in-user 10 QKQ1.191215.002 V11.0.4.0.QJWINXM release-keys",
+                    "google/redfin/redfin:11/RQ1C.210205.006/7047959:user/release-keys",
+                    "curtana_in-user 10 QKQ1.191215.002 V12.0.1.0.QJWINXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
         }
     } else if (hwname == "excalibur") {
         set_device_props(
-                "google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys",
-                "excalibur_in-user 10 QKQ1.191215.002 V11.0.4.0.QJXINXM release-keys",
+                "google/redfin/redfin:11/RQ1C.210205.006/7047959:user/release-keys",
+                "excalibur_in-user 10 QKQ1.191215.002 V12.0.1.0.QJXINXM release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
     } else if (hwname == "gram") {
         set_device_props(
-                "google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys",
-                "gram_in-user 10 QKQ1.191215.002 V11.0.3.0.QJPINXM release-keys",
+                "google/redfin/redfin:11/RQ1C.210205.006/7047959:user/release-keys",
+                "gram_in-user 10 QKQ1.191215.002 V12.0.1.0.QJPINXM release-keys",
                 "POCO", "gram", "POCO M2 Pro");
     } else if (hwname == "joyeuse") {
         set_device_props(
-                "google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys",
-                "joyeuse_global-user 10 QKQ1.191215.002 V11.0.5.0.QJZMIXM release-keys",
+                "google/redfin/redfin:11/RQ1C.210205.006/7047959:user/release-keys",
+                "joyeuse_global-user 10 QKQ1.191215.002 V12.0.1.0.QJZMIXM release-keys",
                 "Redmi", "joyeuse", "Redmi Note 9 Pro");
     }
 }
