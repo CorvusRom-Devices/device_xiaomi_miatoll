@@ -25,3 +25,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Corvus Official
 RAVEN_LAIR=Official
 USE_GAPPS=true
+
+# Corvus Maintainer
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.corvus.maintainer=mrjarvis698
