@@ -1,0 +1,38 @@
+[
+  {
+    "repository": "MrJarvis698/device_xiaomi_sm7125-common",
+    "target_path": "device/xiaomi/sm7125-common",
+    "branch": "11_corvus",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/device_xiaomi_sm7125-common-sepolicy",
+    "target_path": "device/xiaomi/sm7125-common-sepolicy",
+    "branch": "corvus",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/kernel_xiaomi_sm7125",
+    "target_path": "kernel/xiaomi/sm7125",
+    "branch": "perf+",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/vendor_xiaomi_miatoll",
+    "target_path": "vendor/xiaomi/miatoll",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/vendor_xiaomi_sm7125-common",
+    "target_path": "vendor/xiaomi/sm7125-common",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.0",
+    "remote": "github"
+  }
+]
