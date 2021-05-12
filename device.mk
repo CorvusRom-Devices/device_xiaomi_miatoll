@@ -20,6 +20,10 @@ $(call inherit-product, device/xiaomi/sm7125-common/common.mk)
 # Inherit proprietary targets
 $(call inherit-product-if-exists, vendor/xiaomi/miatoll/miatoll-vendor.mk)
 
+# Doze
+PRODUCT_PACKAGES += \
+    XiaomiDoze
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)

@@ -30,6 +30,12 @@
     "remote": "github"
   },
   {
+    "repository": "MrJarvis698/packages_apps_XiaomiDoze",
+    "target_path": "packages/apps/XiaomiDoze",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
     "repository": "LineageOS/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi",
     "branch": "lineage-18.0",
