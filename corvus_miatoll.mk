@@ -32,6 +32,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Call Recording 
 TARGET_SUPPORTS_CALL_RECORDING := true
 
+# Custom clang
+USE_CUSTOM_CLANG=true
+
 # Gapps
 USE_GAPPS=true
 
